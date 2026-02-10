@@ -1,5 +1,5 @@
 # Student-Expense-Analyzer
-**Author:** Matthew Swantee
+**Name:** Matthew Swantee
 **Description:** This program tracks weekly student expenses using JavaScript arrays. It demonstrates how to transform data (map), filter specific categories (filter), and calculate totals (reduce).
 
 ### Callback functions
